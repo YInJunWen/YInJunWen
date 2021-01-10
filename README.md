@@ -1,7 +1,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=YInJunWen/YInJunWen)
 ### Hello, friend 👋
 
-<img align='right' src="https://github.com/YInJunWen/YInJunWen/blob/master/astro-mona.jpeg" width="200">
+<img align='right' src="https://github.com/YInJunWen/YInJunWen/blob/master/astro-mona.png" width="200">
 
 - 🔭 热爱 Coding 的 JS 开发工程一枚，欢迎关注~
 - 🌱 目前学习: JavaScript、Python、Golang、数据结构、机器学习、深度学习、网络爬虫、
