@@ -1,5 +1,5 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=YInJunWen/YInJunWen)
-### Hello, friend 👋
+### ![Hello World!](https://glitch-art.vercel.app/api/simple?word={Hello%20World}) 👋
 
 <img align='right' src="https://github.com/YInJunWen/YInJunWen/blob/master/astro-mona.png" width="200">
 
@@ -14,3 +14,7 @@
 - 🌈 Contact: yinjwen@gmail.com
 
 
+<!--
+- <img src='https://github.com/user-attachments/assets/830f9d78-a85c-4d62-be5e-cc0af727eabe' width='15px' />
+- <img src='https://github.com/user-attachments/assets/4292a134-34e9-487a-97c0-4f9f827bfdde' width='16px' />
+-->
