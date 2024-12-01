@@ -1,8 +1,14 @@
+<!--
 <div align="center">
   <img
     src="https://glitch-art.vercel.app/api/simple?word=J.W&font=Neonderthaw&fontSize=72&width=380&height=96"
     alt="YInJw" 
   />
+</div>
+-->
+<div>
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60" align="right"/> 
 </div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=YInJunWen/YInJunWen)
